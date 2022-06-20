@@ -1,4 +1,4 @@
-# buldings_map
+# buldings maps
 
 # Used Framworks and libraries :
 
