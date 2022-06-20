@@ -8,7 +8,7 @@
   
 
 ![alt text](https://github.com/AbdallahElgamil/Buildings-maps/blob/main/buildings_map.png?raw=true)
-![alt text](https://github.com/AbdallahElgamil/Buildings-maps/blob/main/buildings_map2.png?raw=true)
+![alt text](https://github.com/AbdallahElgamil/Buildings-maps/blob/main/buildings_maps2.png?raw=true)
 
 
 
