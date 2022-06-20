@@ -7,7 +7,9 @@
 - bootstrab 5
   
 
-![alt text](https://github.com/AbdallahElgamil/e-commerce-react/blob/main/home.png?raw=true)
+![alt text](https://github.com/AbdallahElgamil/e-commerce-react/blob/main/buildings_map.jpg?raw=true)
+
+![alt text](https://github.com/AbdallahElgamil/e-commerce-react/blob/main/buildings_maps2.jpg?raw=true)
 
 
 
